@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi there 👋!
 
+<center>
+  
+---
+  
+Hello, I'm Javier Fontes Basabe. I'm a first-year student at The University of Havana. Here you will find my programming projects repositories.
 <!--
 **FontesHabana/FontesHabana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
