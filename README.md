@@ -1,22 +1,137 @@
 ![HavanaCity](https://github.com/user-attachments/assets/2843f260-7fdf-4ba5-b03f-04c426f5232c)
-  <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1> </h1> 
 
-<center>
-Hello, I'm Javier Fontes Basabe. I'm a first-year student at The University of Havana. Here you will find my programming projects repositories.
-<br/>
-<br/>
-<br/>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-  <h2><li>🌱 Currently, I'm learning:.</li></h2>
-<img src="https://skillicons.dev/icons?i=cpp,cs&perline=14" />
-<br/>
+<p align="center">
+Hello, I'm Javier Fontes Basabe, a passionate first-year programming student at The University of Havana. Welcome to my GitHub profile, where you can explore my projects and contributions.
+</p>
+
+## About Me
+
+I am a motivated and dedicated student constantly exploring the world of software development. I am currently part of the Artificial Intelligence research group at the University of Havana, where I contribute to exciting projects in the field. I am particularly interested in leveraging technology to create impactful solutions.
+
+## Technologies
+
+Here are the technologies I currently work with and those I am actively learning:
+
+### Currently Proficient In:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs,html,css,js,python,git&perline=6" />
+</p>
+
+### Currently Learning:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,cpp&perline=2" />
+</p>
+
+## Projects
+
+This GitHub profile contains repositories showcasing my programming projects. While I am building my portfolio, these projects reflect my learning journey and application of various technologies. Please feel free to explore them.
+
+### Featured Projects
+
+Here are some of my key projects.
+
+<!-- Example Project Structure -->
+<div align="center">
+  <h2>Featured Projects</h2>
+  <p>Here you can explore some of my key projects. </p>
+  <table>
+    <tr>
+      <!-- Alterna World Website -->
+      <td width="50%" valign="top">
+        <h3 align="center">Alterna World Website</h3>
+        <div align="center">
+           <a href="https://alternaworld.net/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/78590ad7-080c-47d1-a658-7d771427da2b" alt="Alterna World Website Screenshot" width="90%"  style="border-radius: 8px;"/>
+          </a>
+          <p>
+            Website developed for Alterna World, a platform that empowers brands and projects through creativity and technology.
+          </p>
+          <p>
+            <a href="https://alternaworld.net/" target="_blank">
+              <img src="https://img.icons8.com/material-outlined/24/808080/external-link.png" alt="Live Demo" style="vertical-align: middle;"/>
+            </a>
+          </p>
+        </div>
+      </td>
+      <!-- Pixel Studio Code -->
+      <td width="50%" valign="top">
+        <h3 align="center">Pixel Studio Code</h3>
+        <div align="center">
+          <a href="https://fonteshabana.github.io/Pixel_WallE_docs/">
+            <img src="https://github.com/user-attachments/assets/3d7955e5-e9f9-4291-b143-b8b6a03fb34d" alt="Pixel Studio Code Screenshot" width="90%" style="border-radius: 8px;"/>
+          </a>
+          <p>
+            An IDE that allows you to design pixel art using code.
+          </p>
+          <p>
+            <a href="https://github.com/FontesHabana/PixelStudioCode" target="_blank">
+              <img src="https://img.icons8.com/material-outlined/24/808080/github.png" alt="Repository" style="vertical-align: middle;"/> 
+            </a>
+                
+           <a href="https://fonteshabana.github.io/Pixel_WallE_docs/" target="_blank">
+              <img src="https://img.icons8.com/material-outlined/24/808080/external-link.png" alt="Live Demo" style="vertical-align: middle;"/>
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <!-- Sagrada - A Maze Game -->
+      <td width="50%" valign="top">
+        <h3 align="center">Sagrada - A Maze Game</h3>
+        <div align="center">
+          <a href="https://github.com/FontesHabana/Sagrada-AMazeGame">
+            <img src="https://github.com/user-attachments/assets/dbabd0a0-ffa1-4da0-b53b-8c6b7902fa74" alt="Sagrada - A Maze Game Screenshot" width="90%" style="border-radius: 8px;"/>
+          </a>
+          <p>
+            A console-based maze game, marking my first programming project.
+          </p>
+          <p>
+            <a href="https://github.com/FontesHabana/Sagrada-AMazeGame" target="_blank">
+              <img src="https://img.icons8.com/material-outlined/24/808080/github.png" alt="Repository" style="vertical-align: middle;"/>
+            </a>
+          </p>
+        </div>
+      </td>
+      <!-- MatCom Function Lab -->
+      <td width="50%" valign="top">
+        <h3 align="center">MatCom Function Lab</h3>
+        <div align="center">
+          <a href="https://github.com/FontesHabana/MatComFunctionLab">
+            <img src="https://github.com/user-attachments/assets/d75e94c3-eb3b-46a0-9c35-8c390b06a916" alt="MatCom Function Lab Screenshot" width="90%" style="border-radius: 8px;"/>
+          </a>
+          <p>
+            A tool developed at the University of Havana for the study of mathematical analysis.
+          </p>
+          <p>
+            <a href="https://github.com/FontesHabana/MatComFunctionLab" target="_blank">
+              <img src="https://img.icons8.com/material-outlined/24/808080/github.png" alt="Repository" style="vertical-align: middle;"/>
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+## Connect with Me
+
+<p align="center">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fonteshabana?style=social)](https://twitter.com/fonteshabana)
 [![Telegram](https://img.shields.io/badge/Telegram-%40FontesHabana-0088cc.svg)](https://t.me/FontesHabana)
 [![Telegram](https://img.shields.io/badge/Gmail-%40javierfontbas@gmail.com-ff0000.svg)](javierfontbas@gmail.com)
-  <center></center>
-  
-  
+
+</p>
+
+---
+
+<p align="center">
+Thanks for visiting!
+
   
   
 
