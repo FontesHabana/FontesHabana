@@ -3,7 +3,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <p align="center">
-Hello, I'm Javier Fontes Basabe, a passionate first-year programming student at The University of Havana. Welcome to my GitHub profile, where you can explore my projects and contributions.
+Hello, I'm Javier Fontes Basabe, a passionate second-year computer science student at the University of Havana. Welcome to my GitHub profile, where you can explore my projects and contributions.
 </p>
 
 ## About Me
