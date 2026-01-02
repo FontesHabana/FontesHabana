@@ -119,8 +119,8 @@ Here are some of my key projects.
 ## Competitive programming
 ### 📊 My Codeforces Stats
 <div align="center">
-<a  href="https://codeforces.com/profile/your_handle">
-  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=javierfontbas&theme=radical" alt="Codeforces Stats Card"/>
+<a  href="https://codeforces.com/profile/fontes49">
+  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=fontes49&theme=radical" alt="Codeforces Stats Card"/>
 </a>
 </div>
 
