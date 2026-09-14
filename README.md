@@ -16,12 +16,12 @@ Here are the technologies I currently work with and those I am actively learning
 
 ### Currently Proficient In:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cs,html,css,js,python,git&perline=6" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,git&perline=6" />
 </p>
 
 ### Currently Learning:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,cpp&perline=2" />
+<img src="https://skillicons.dev/icons?i=react&perline=2" />
 </p>
 
 ## Projects
@@ -55,6 +55,25 @@ Here are some of my key projects.
           </p>
         </div>
       </td>
+       <!-- World Cup Prediction 2026 -->
+      <td width="50%" valign="top">
+        <h3 align="center"> World Cup Prediction 2026 </h3>
+        <div align="center">
+          <a href="https://github.com/FontesHabana/WorldCup_2026_Prediction.git">
+            <img src="https://github.com/user-attachments/assets/a5d217e6-d7eb-440f-aeff-f717e3b49e06" alt="WorldCup prediction web" width="90%" style="border-radius: 8px;"/>
+          </a>
+          <p>
+            Predicting the outcome of the 2026 FIFA World Cup using Machine Learning.
+          </p>
+          <p>
+            <a href="https://github.com/FontesHabana/WorldCup_2026_Prediction.git" target="_blank">
+              <img src="https://img.icons8.com/material-outlined/24/808080/github.png" alt="Repository" style="vertical-align: middle;"/>
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+      <tr>
       <!-- Pixel Studio Code -->
       <td width="50%" valign="top">
         <h3 align="center">Pixel Studio Code</h3>
@@ -76,8 +95,6 @@ Here are some of my key projects.
           </p>
         </div>
       </td>
-    </tr>
-    <tr>
       <!-- Sagrada - A Maze Game -->
       <td width="50%" valign="top">
         <h3 align="center">Sagrada - A Maze Game</h3>
@@ -90,23 +107,6 @@ Here are some of my key projects.
           </p>
           <p>
             <a href="https://github.com/FontesHabana/Sagrada-AMazeGame" target="_blank">
-              <img src="https://img.icons8.com/material-outlined/24/808080/github.png" alt="Repository" style="vertical-align: middle;"/>
-            </a>
-          </p>
-        </div>
-      </td>
-      <!-- MatCom Function Lab -->
-      <td width="50%" valign="top">
-        <h3 align="center">MatCom Function Lab</h3>
-        <div align="center">
-          <a href="https://github.com/FontesHabana/MatComFunctionLab">
-            <img src="https://github.com/user-attachments/assets/d75e94c3-eb3b-46a0-9c35-8c390b06a916" alt="MatCom Function Lab Screenshot" width="90%" style="border-radius: 8px;"/>
-          </a>
-          <p>
-            A tool developed at the University of Havana for the study of mathematical analysis.
-          </p>
-          <p>
-            <a href="https://github.com/FontesHabana/MatComFunctionLab" target="_blank">
               <img src="https://img.icons8.com/material-outlined/24/808080/github.png" alt="Repository" style="vertical-align: middle;"/>
             </a>
           </p>
@@ -126,15 +126,13 @@ Here are some of my key projects.
 
 
 ## Connect with Me
-
 <p align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/fonteshabana?style=social)](https://twitter.com/fonteshabana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Fontes-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/javier-fontes-basabe-562291329?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Telegram](https://img.shields.io/badge/Telegram-%40FontesHabana-0088cc.svg)](https://t.me/FontesHabana)
-[![Telegram](https://img.shields.io/badge/Gmail-%40javierfontbas@gmail.com-ff0000.svg)](javierfontbas@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%40javierfontbas@gmail.com-ff0000.svg)](mailto:javierfontbas@gmail.com)
 
 </p>
-
 ---
 
 <p align="center">
